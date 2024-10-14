@@ -12,7 +12,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **web security**
 
 - 💬 Ask me about **Python, security**
 ###
