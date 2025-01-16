@@ -1,6 +1,6 @@
 <img src="Banner"></img>
 <h2 align="center">Hi 👋! Im Amirhossein</h2>
-<h3 align="center">A backend developer and hacker from Iran</h3>
+<h3 align="center">A backend developer and tool maker from Iran</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirprx3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
