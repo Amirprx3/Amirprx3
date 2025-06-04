@@ -1,5 +1,5 @@
 <img src="Banner"></img>
-<h2 align="center">Hi 👋! Im Amirhossein</h2>
+<h2 align="center">Hi 👋! Im Amir</h2>
 <h3 align="center">A backend developer and tool maker from Iran</h3>
 
 <div align="center">
